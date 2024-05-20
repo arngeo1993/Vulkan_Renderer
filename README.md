@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vulkan
 
 Inspired by Sascha Williems  (https://github.com/SaschaWillems/Vulkan)
@@ -451,3 +452,6 @@ Inspired by Sascha Williems  (https://github.com/SaschaWillems/Vulkan)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Vertices collision with sphere
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each vertices is considered as a particles
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particles haves constrains with its adjacent particles
+=======
+# Vulkan_Renderer
+>>>>>>> b528873cd0e8674e02c119c06938118698dd9270
